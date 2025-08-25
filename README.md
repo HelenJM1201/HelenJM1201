@@ -2,9 +2,8 @@
 
 **`Análise de dados`**
 
-Me chamo Helen Jerônimo, tenho 24 anos e sou de São Paulo. Me formei em Administração Pública pela Fundação Getúlio Vargas (FGV). Atualmente, estou cursando Ciência de Dados na Anhanguera.
+Me chamo Helen Jerônimo, tenho 24 anos e sou de São Paulo. Me formei em Administração Pública pela Fundação Getúlio Vargas (FGV). Atualmente, estou cursando Data Sciency & Analitys na USP.  
 
-Trabalho como supervisora na área de Análise de Dados e Indicadores do SP156. Minha função é coordenar projetos voltados para o desenvolvimento de relatórios e dashboards, utilizando os dados de solicitações de serviços da Prefeitura de São Paulo.
 
 <p align="left">
     <a href="https://www.youtube.com/@helenjeronimo9974">
