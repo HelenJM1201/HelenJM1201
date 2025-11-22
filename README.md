@@ -1,8 +1,8 @@
-# 👩🏻‍💻 Helen Jerônimo
+# 👩🏻‍💻 
 
 **`Análise de dados`**
 
-Me chamo Helen Jerônimo, tenho 24 anos e sou de São Paulo. Me formei em Administração Pública pela Fundação Getúlio Vargas (FGV). Atualmente, estou cursando Data Sciency & Analitys na USP.  
+
 
 
 <p align="left">
